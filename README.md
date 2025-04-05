@@ -1,0 +1,1 @@
+The Text Similarity and Keyword Extraction Using TF-IDF Algorithm project demonstrates how the TF-IDF technique identifies important words in a document and measures similarity between texts. By analyzing word frequency and relevance, it helps extract key features from textual data. This method is widely used in search engines, document classification, and recommendation systems.
